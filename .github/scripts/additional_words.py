@@ -69,7 +69,6 @@ def get_additional_chinese_words():
 def get_additional_french_words():
     words = [
         "c'est"
-        "
         "archiduchesse"
         "À",
         "coeur",
